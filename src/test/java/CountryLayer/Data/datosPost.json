@@ -1,0 +1,16 @@
+[
+  {
+    "escenario": "01",
+    "nombre": "United States of America",
+    "alpha2_code": "TC",
+    "alpha3_code": "TCY",
+    "statusCode": 200
+  },
+  {
+    "escenario": "01",
+    "nombre": "Germany",
+    "alpha2_code": "TC",
+    "alpha3_code": "TCY",
+    "statusCode": 200
+  }
+]
